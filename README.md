@@ -1,2 +1,2 @@
 # Lensed-Host-Image-Viewer
-Source for Lensed Host website pages
+Source for Lensed Host Viewer website pages
