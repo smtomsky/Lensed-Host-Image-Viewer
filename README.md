@@ -1,7 +1,8 @@
 # Lensed-Host-Image-Viewer
 <<<<<<< HEAD
 Source for Lensed Host Viewerwebsite pages
-# Hosted by Stephen Tomsky
+
+Hosted by Stephen Tomsky
 
 This repository is a part of the LSST Science Collaborations Group
 
