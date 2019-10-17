@@ -1,6 +1,6 @@
 # Lensed-Host-Image-Viewer
 <<<<<<< HEAD
-Source for Lensed Host Viewerwebsite pages
+Source for Lensed Host Viewer website pages
 
 Hosted by Stephen Tomsky
 
